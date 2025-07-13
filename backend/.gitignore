@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+*.log
+.idea/
+.DS_Store
+F:\code\.vscode\gitpal\backend\venv\lib\python3.10\site-packages\anyio\_backends\__pycache__
